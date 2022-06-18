@@ -1,9 +1,9 @@
 - 👋 Hi, I am Daniel
-- 🌱 I’m junior software engineer, at this moment in the finish phase of Codecool 12-month full-stack developer bootcamp
-- 🏋🏻‍♀️ For now I am familliar with Java 8/11/16, Spring Boot, Jpa/Hibernate, Python 3, Flask, React, Javascript, HTML/CSS, SQL, GIT and OOP.
-- 🤝 I also have gathered yet a lot of experience of working in group  
-- 👀 I am posting choice of projects I accomplished in progress of CC course and my own extra work to show how my learning process go 
-- 📫 If you are recruiter or person who is looking for promising junior engineer - I am the one, so please contact me via email or LinkedIn - you will not regret  
+- 🌱 I work as Software Engineer in large Swiss Investment Bank
+- 🏋🏻‍♀️ Technologies used on daily-basis: Java 11, Angular, PostgreSQL, Oracle, MS Azure, GitLab + GitLab CI and a lot of inside systems
+- ✨ I have finished intense 12-Month Fullstack Developer Bootcamp. First half of course I had been learning full time, then I received work offer as Junior Application Support Role. After 3 months I've been horizontally promoted to Junior Software Engineer position. After 4 months of work I've got promoted to Regular Software Engineer role due good performance and taking large amount of new resposibilites after my Senior collegue leave 
+- 👀 Since my work's start in December I stopped to work on projects on this profile - mainly Codecool related projects developed for learning purposes + one large project of my idea "BWell" - application with nutrition module, communicating with 3rd part API with Nutrients details and with 4 repositories of ideas from area of: diet, fitness, relaxation and self-development  
+- 📫 Currently I am not actively looking for job opportunities but we can always discuss potential offers =) 
 
  Email: dmwator11@gmail.com
  LinkedIn: https://www.linkedin.com/in/daniel-wator11/?locale=en_US
